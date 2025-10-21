@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="160" height="120" viewBox="0 0 160 120">
+  <g fill="none" stroke="black" stroke-width="6">
+    <path d="M20,20 L80,20"/><path d="M20,100 L80,100"/><path d="M20,20 L20,100"/>
+    <path d="M80,20 A40,40 0 0,1 80,100"/>
+    <path d="M120,60 L150,60"/>
+  </g>
+  <!-- input pins (just visual, edges will connect to image bbox) -->
+  <g stroke="black" stroke-width="6"><path d="M-10,40 L20,40"/><path d="M-10,80 L20,80"/></g>
+</svg>

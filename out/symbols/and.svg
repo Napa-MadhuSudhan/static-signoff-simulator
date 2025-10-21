@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="80" height="50" viewBox="0 0 80 50">
+  <defs>
+    <style>
+      .gate { fill: white; stroke: black; stroke-width: 2; }
+      .txt  { font-family: Arial, Helvetica, sans-serif; font-size: 10px; }
+    </style>
+  </defs>
+  <!-- flat left + semicircle right -->
+  <path class="gate" d="M10 10 L40 10 A15 15 0 0 1 40 40 L10 40 Z"/>
+  <text class="txt" x="25" y="30" text-anchor="middle">AND</text>
+</svg>
